@@ -1,0 +1,14 @@
+{
+    "name": "alb/twig-shell-bundle",
+    "description": "Provides a simple Twig REPL",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Arnaud Le Blanc",
+            "email": "arnaud.lb@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
