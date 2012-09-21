@@ -10,5 +10,11 @@
     ],
     "require": {
 
-    }
+    },
+    "autoload": {
+        "psr-0": {
+            "AlbTwigShellBundle": ""
+        }
+    },
+    "target-dir": "AlbTwigShellBundle"
 }
