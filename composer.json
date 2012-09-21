@@ -16,5 +16,5 @@
             "Alb\\TwigShellBundle": ""
         }
     },
-    "target-dir": "Alb\\TwigShellBundle"
+    "target-dir": "Alb/TwigShellBundle"
 }
