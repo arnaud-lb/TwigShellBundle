@@ -16,10 +16,8 @@ Provides a simple Twig REPL
 ## Install
 
 ```
-$ composer require alb/twig-shell-bundle
+$ composer require alb/twig-shell-bundle:*
 ```
-
-When asked for a version constraint, type `*` and hit enter.
 
 ## Enable the bundle
 
