@@ -16,5 +16,6 @@
             "Alb\\TwigShellBundle": ""
         }
     },
-    "target-dir": "Alb/TwigShellBundle"
+    "target-dir": "Alb/TwigShellBundle",
+    "license": "MIT"
 }
